@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.setup-state/
+logs/
+.sesskey
+key.pem
+cert.pem
